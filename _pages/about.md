@@ -1,8 +1,15 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+A boy who tries to understand the world, and finds his place in it. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am one of those people with a long list of hobbies but when it comes to the ones that I actually do, the list shrinks. I love riding my bike, my favorite
+season for riding is probably winter and spring, especially on a snowy day or a rainy one. 
+I also enjoy drawing and sketching. Mostly portraits, but also, I do like drawing perspective and wide-angle shots, they're the most tricky ones to draw.
+Reading novels is my favorite guilt-free joy, cause I don't get that guilt that "You are wasting your time Ali, get a grip" every second in my mind. 
+So, after those, I get to the most time-consuming one, which is Movies. Yup I am one of those movie nerds too, but my prime years are way past me, and I am
+kinda retired lately in the movie hobby category :) 
+
+Apart from those, if I find a cozy and of course clean pool around, I would probably find myself swimming every day, but apparently, that's a luxury wish. 
