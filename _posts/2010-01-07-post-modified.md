@@ -13,10 +13,10 @@ tags:
 
 Just a test to see if we can play video on this or not
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-PVofD2A9t8?controls=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/QGKGMTGRCtQ" frameborder="0" allowfullscreen></iframe>
 
 
 
 test
 
-<iframe width="640" height="360" src="https://youtu.be/QGKGMTGRCtQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/QGKGMTGRCtQ" frameborder="0" allowfullscreen></iframe>
