@@ -6,6 +6,11 @@ title: "About Me"
 A boy who tries to understand the world, and finds his place in it. 
 
 
+I've always been interested in nature and understanding how it functions, especially when we can exploit its energy and use it for our benefit. I had a blast working on solar desalination systems for my thesis. However, I have always been interested in working in the field of wind energy. I have recently focused on learning about atmospheric science, tidal winds, shaping clouds, and their role in harvesting wind energy. I haven't been this passionate about a subject for a long time, and I am not planning to stop. I want to continue and do my PhD in this field.
+
+
+
+My Hobbies: 
 
 I am one of those people with a long list of hobbies but when it comes to the ones that I actually do, the list shrinks. I love riding my bike, my favorite
 season for riding is probably winter and spring, especially on a snowy day or a rainy one. 
