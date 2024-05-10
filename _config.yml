@@ -76,7 +76,7 @@ author:
       url: "https://scholar.google.com/citations?user=1Oq9BIQAAAAJ&hl=en&oi=ao"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "ali.farvardin.so@gmail.com"
+      url: "mailto:ali.farvardin.so@gmail.com"
 
 # footer:
 #   links:
