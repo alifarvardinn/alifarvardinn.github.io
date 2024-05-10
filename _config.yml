@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/snow5.jpg"
   bio    : "As you start to walk on the way, the way appears (Rumi) "
   links:
-       - label: "Linkedin"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ali-farvardin/"
     # - label: "Twitter"
